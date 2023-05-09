@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "nombre_capitulo": "Capitulo 116 Responsabilidad",
+        "imagen_url": "https://www.leercapitulo.com/covers/o/oshi-no-ko-d2qhr5.png",
+        "link": "https://www.leercapitulo.com/leer/d2qhr5/oshi-no-ko/116/",
+        "nombre": "Oshi No Ko",
+        "leido": false
+    },
+    {
+        "id": 2,
+        "nombre_capitulo": "Capitulo 115 Papel",
+        "imagen_url": "https://www.leercapitulo.com/covers/o/oshi-no-ko-d2qhr5.png",
+        "link": "https://www.leercapitulo.com/leer/d2qhr5/oshi-no-ko/115/",
+        "nombre": "Oshi No Ko",
+        "leido": false
+    },
+    {
+        "id": 3,
+        "nombre_capitulo": "Capitulo 119 Fuimos a un concierto",
+        "imagen_url": "https://www.leercapitulo.com/covers/b/boku-no-kokoro-no-yabai-yatsu-5q8ord.png",
+        "link": "https://www.leercapitulo.com/leer/5q8ord/boku-no-kokoro-no-yabai-yatsu/119/",
+        "nombre": "Boku no Kokoro no Yabai Yatsu",
+        "leido": false
+    },
+    {
+        "id": 4,
+        "nombre_capitulo": "Capitulo 118 Estaba creando muros",
+        "imagen_url": "https://www.leercapitulo.com/covers/b/boku-no-kokoro-no-yabai-yatsu-5q8ord.png",
+        "link": "https://www.leercapitulo.com/leer/5q8ord/boku-no-kokoro-no-yabai-yatsu/118/",
+        "nombre": "Boku no Kokoro no Yabai Yatsu",
+        "leido": false
+    },
+    {
+        "id": 5,
+        "nombre_capitulo": "Capitulo 168 Indeciso",
+        "imagen_url": "https://www.leercapitulo.com/covers/y/yofukashi-no-uta-jo6v1s5.png",
+        "link": "https://www.leercapitulo.com/leer/jo6v1s5/yofukashi-no-uta/168/",
+        "nombre": "Yofukashi no Uta",
+        "leido": false
+    },
+    {
+        "id": 6,
+        "nombre_capitulo": "Capitulo 167 Fiesta de agradecimiento",
+        "imagen_url": "https://www.leercapitulo.com/covers/y/yofukashi-no-uta-jo6v1s5.png",
+        "link": "https://www.leercapitulo.com/leer/jo6v1s5/yofukashi-no-uta/167/",
+        "nombre": "Yofukashi no Uta",
+        "leido": false
+    },
+    {
+        "id": 7,
+        "nombre_capitulo": "Capitulo 280",
+        "imagen_url": "https://www.leercapitulo.com/covers/k/kanojo-okarishimasu-cgvafh.png",
+        "link": "https://www.leercapitulo.com/leer/cgvafh/kanojo-okarishimasu/280/",
+        "nombre": "Kanojo Okarishimasu",
+        "leido": false
+    },
+    {
+        "id": 8,
+        "nombre_capitulo": "Capitulo 279",
+        "imagen_url": "https://www.leercapitulo.com/covers/k/kanojo-okarishimasu-cgvafh.png",
+        "link": "https://www.leercapitulo.com/leer/cgvafh/kanojo-okarishimasu/279/",
+        "nombre": "Kanojo Okarishimasu",
+        "leido": false
+    },
+    {
+        "id": 9,
+        "nombre_capitulo": "Capitulo 129 S\u00e1lvame hombre motosierra",
+        "imagen_url": "https://www.leercapitulo.com/covers/c/chainsaw-man-7im0lu.png",
+        "link": "https://www.leercapitulo.com/leer/7im0lu/chainsaw-man/129/",
+        "nombre": "Chainsaw Man",
+        "leido": false
+    },
+    {
+        "id": 10,
+        "nombre_capitulo": "Capitulo 128 Plato principal",
+        "imagen_url": "https://www.leercapitulo.com/covers/c/chainsaw-man-7im0lu.png",
+        "link": "https://www.leercapitulo.com/leer/7im0lu/chainsaw-man/128/",
+        "nombre": "Chainsaw Man",
+        "leido": false
+    },
+    {
+        "id": 11,
+        "nombre_capitulo": "Capitulo 52",
+        "imagen_url": "https://www.leercapitulo.com/covers/k/kage-no-jitsuryokusha-ni-naritakute-gcoisn.png",
+        "link": "https://www.leercapitulo.com/leer/gcoisn/kage-no-jitsuryokusha-ni-naritakute/52/",
+        "nombre": "Kage no Jitsuryokusha ni Naritakute",
+        "leido": false
+    },
+    {
+        "id": 12,
+        "nombre_capitulo": "Capitulo 51",
+        "imagen_url": "https://www.leercapitulo.com/covers/k/kage-no-jitsuryokusha-ni-naritakute-gcoisn.png",
+        "link": "https://www.leercapitulo.com/leer/gcoisn/kage-no-jitsuryokusha-ni-naritakute/51/",
+        "nombre": "Kage no Jitsuryokusha ni Naritakute",
+        "leido": false
+    },
+    {
+        "id": 13,
+        "nombre_capitulo": "Capitulo 358 Incineraci\u00f3n",
+        "imagen_url": "https://www.leercapitulo.com/covers/b/black-clover-cco8900.png",
+        "link": "https://www.leercapitulo.com/leer/cco8900/black-clover/358/",
+        "nombre": "Black Clover",
+        "leido": false
+    },
+    {
+        "id": 14,
+        "nombre_capitulo": "Capitulo 357 El corte final",
+        "imagen_url": "https://www.leercapitulo.com/covers/b/black-clover-cco8900.png",
+        "link": "https://www.leercapitulo.com/leer/cco8900/black-clover/357/",
+        "nombre": "Black Clover",
+        "leido": false
+    }
+]
