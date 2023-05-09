@@ -1,7 +1,8 @@
-from flask import Flask
-from flask_cors import CORS
+from flask import Flask # Importa la clase Flask
+from flask_cors import CORS #
 from flask import jsonify
 import subprocess
+import os
 
 app = Flask(__name__)
 CORS(app, origins='*')
@@ -16,5 +17,6 @@ def actualizar_capitulos():
     return jsonify({'mensaje': 'Actualización completada'})
 
 if __name__ == '__main__':
-    app.run(port=3001)
+    app.run(port=int(os.environ.get('PORT', 3000)))
+
 

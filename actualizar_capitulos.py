@@ -79,7 +79,7 @@ for url in urls:
 
 
 # Guarda los datos en el archivo JSON
-with open('resultados.json', 'w') as archivo:
+with open('./src/resultados.json', 'w') as archivo:
     json.dump(capitulos, archivo, indent=4)
 
 print('Resultados guardados en resultados.json')
