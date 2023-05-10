@@ -1,8 +1,8 @@
+"use client";
 import React, { useState, useEffect } from "react";
-import data from "../resultados.json";
 
 const Main = () => {
-  const [capitulos, setCapitulos] = useState(data);
+  const [capitulos, setCapitulos] = useState([]);
 
   const gruposAnime = capitulos.reduce((grupos, item) => {
     if (!grupos[item.nombre]) {
@@ -28,6 +28,16 @@ const Main = () => {
     if (capitulosLeidos) {
       setCapitulos(capitulosLeidos);
     }
+  }, []);
+
+  useEffect(() => {
+    // Realizar la solicitud HTTP al servidor para obtener los datos
+    fetch("http://localhost:3001/")
+      .then((response) => response.json())
+      .then((data) => setCapitulos(data))
+      .catch((error) =>
+        console.error("Error al obtener los datos del servidor:", error)
+      );
   }, []);
 
   return (
