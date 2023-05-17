@@ -64,7 +64,7 @@ const Main = () => {
                     }`}
                     onClick={() => marcarComoLeido(anime.id, capitulo.id)}
                   >
-                    {capitulo.nombre_capitulo}
+                    {capitulo.capitulo}
                   </a>
                 </li>
               ))}
