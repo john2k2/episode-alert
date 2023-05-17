@@ -54,7 +54,7 @@ const Main = () => {
           <div className="w-52 mb-4 overflow-y-auto scrollbar-thin scrollbar-thumb-gray-500 scrollbar-track-gray-200 scrollbar-thumb-rounded-full scrollbar-track-rounded-full scrollbar-thumb-hover:shadow-lg scrollbar-track-hover:shadow-lg transition duration-300 ease-in-out">
             <ul>
               {anime.link.map((capitulo) => (
-                <li key={capitulo.nombre_capitulo}>
+                <li key={capitulo.capitulo}>
                   <a
                     href={capitulo.url}
                     target="_blank"
